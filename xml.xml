@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Tractor xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>tractorok</name>
+  <number>34</number>
+  <engine>
+    <name>dvigatel</name>
+    <number>89</number>
+    <type_petrol>true</type_petrol>
+  </engine>
+  <cab>
+    <name>cabinka</name>
+    <number>3</number>
+    <type>standart</type>
+  </cab>
+</Tractor>
